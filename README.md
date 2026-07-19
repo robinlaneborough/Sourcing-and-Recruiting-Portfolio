@@ -22,37 +22,57 @@ https://gamma.app/docs/Strategies-Tools-and-Playbooks-for-2026-gu4z46bne0psr0l?m
 A personalized hiring portfolio created for GitHub, including my recruiting philosophy, capabilities, sourcing strategy, and examples of how I approach Talent Strategy.
 
 🔗 **View Candidate Brief**
-https://app.notion.com/p/robinborough/Robin-Borough-Candidate-Brief-for-GitHub-3a2da2a47ed6801aa355dc58584b6f4a
+https://robinborough.notion.site/Robin-Borough-Candidate-Brief-for-GitHub-3a2da2a47ed6801aa355dc58584b6f4a?source=copy_link
 
 ---
 
 # Areas of Expertise
 
+- AI-Powered Talent Strategy
 - Technical Recruiting
-- GTM Recruiting
-- Talent Strategy
-- AI-Powered Sourcing
+- GTM & Commercial Recruiting
 - Talent Intelligence
-- Competitive Research & Market Mapping
+- Talent Sourcing & Research
+- Competitive Intelligence & Market Mapping
+- Candidate Assessment
 - Executive Search
-- Candidate Attraction
-- Passive Talent Engagement
-- Community Building
-- Recruiting Automation
-- Recruiting Analytics
 - Workforce Planning
-
----
+- Recruiting Operations
+- Recruiting Automation & Workflow Design
+- ATS Optimization & Knowledge Management
+- Talent Analytics & Recruiting Dashboards
+- Community Building & Talent Ecosystem Development
+- Candidate Attraction & Storytelling
+- Passive Talent Engagement
+- Executive Stakeholder Partnership
+- University Recruiting & Workforce Partnerships
+- Military Talent Programs (SkillBridge)
+- Recruiting Technology & AI Innovation
 
 # Selected Career Highlights
 
-- 14+ years recruiting Engineering, AI, Product, GTM, Cybersecurity, and executive talent
-- Placed more than 1,000 technical and GTM professionals
-- Built AI-enabled recruiting workflows reducing research time by 60–75%
-- Increased referral generation by 300%
-- Managed 50+ complex tech roll-outs across the USA across 80 cities for over 100,000 end users
-- Led recruiting transformation at Chapman University, reducing time-to-fill by 61%
-- Built a national SkillBridge sourcing initiative reaching more than 225,000 transitioning Service Members
+- 14+ years recruiting Engineering, AI, Product, Cybersecurity, GTM, Sales, Customer Success, DefenseTech, InsureTech, Higher Ed, and executive talent.
+- Placed more than **1,000** technical and GTM professionals across venture-backed startups, Fortune 500 organizations, higher education, and enterprise technology.
+- Designed AI-powered recruiting workflows integrating LinkedIn Recruiter, Apollo, Waalaxy, automation, and LLMs, reducing research time by **60–75%**, doubling sourcing capacity, and increasing referrals by **300%**.
+- Served as the primary recruiter for a high-growth FinTech organization that scaled from **30 to 600 employees** during a period culminating in a **$1.6B acquisition by Intuit**.
+- Founded **The Convergence Technology Council**, personally sourcing and growing a community of **10,000+ technology professionals** while leading monthly networking events attended by **100–125 executives and practitioners**.
+- Conceived and launched Verizon's internal **Community of Practice**, growing a cross-functional knowledge-sharing network to more than **3,000 members**.
+- Led recruiting transformation at Chapman University, reducing average time-to-fill from **90 to 35 days (61%)** while modernizing ATS workflows, hiring operations, and recruiter enablement.
+- Supported career development initiatives serving **3,000+ university students annually** through employer partnerships, workforce programs, and experiential learning.
+- Built a national SkillBridge recruiting initiative reaching **225,000+ transitioning Service Members**, expanding access to technical careers and military talent pipelines.
+- Co-founded a workforce training practice delivering **5,000+ professional certifications** and generating **$5M in annual revenue** through workforce development programs.
+- Managed **50+ enterprise technology deployments** across **80+ U.S. cities**, supporting more than **100,000 end users** through workforce planning, recruiting, and implementation.
+  
+
+---
+
+# Modus Operandi
+
+> *I believe great recruiting changes lives.*
+
+My passion is helping organizations build exceptional teams while helping people discover careers that lead to new opportunities, promotions, greater financial security, and work they're excited to do every day.
+
+Whether I'm sourcing an engineer, mentoring a student, supporting a transitioning Service Member, or building a technology community, my goal is always the same: **connect great people with opportunities where they can thrive.**
 
 ---
 
@@ -60,20 +80,12 @@ https://app.notion.com/p/robinborough/Robin-Borough-Candidate-Brief-for-GitHub-3
 
 📧 robin.borough@gmail.com
 
-📱 818-618-7848
-
 🔗 LinkedIn
 https://www.linkedin.com/in/robinborough/
 
 📍 Thousand Oaks, California
 
 ---
-
-*"Great recruiting is about helping companies build teams that change industries."*
-
----
-
-**Last Updated:** July 2026
 
 **Last Updated**: July 2026  
 Made with ❤️ for talent acquisition excellence.
