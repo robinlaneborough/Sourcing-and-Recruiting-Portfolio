@@ -8,13 +8,12 @@ This repository serves as my professional portfolio, showcasing recruiting strat
 
 ---
 
-# Featured Resources
+## 📄 Featured White Paper
 
-## 📘 Modern GTM & DefenseTech Talent Sourcing
-A comprehensive white paper covering today's sourcing landscape, AI-powered recruiting workflows, market intelligence, community building, automation, and recruiting playbooks.
+This practitioner guide documents the AI-powered recruiting methodologies, sourcing frameworks, automation workflows, market intelligence techniques, and talent playbooks I use to build scalable recruiting organizations. Rather than discussing theory, it focuses on practical systems that improve recruiter productivity, strengthen candidate engagement, and help organizations make better hiring decisions.
 
-🔗 **Read the White Paper**
-https://gamma.app/docs/Strategies-Tools-and-Playbooks-for-2026-gu4z46bne0psr0l?mode=present#card-hjoksn38s4j9rp3
+**Read the white paper:**  
+https://gamma.app/docs/Strategies-Tools-and-Playbooks-for-2026-gu4z46bne0psr0l?mode=present#card-32urlbotabn7cxm
 
 ---
 
