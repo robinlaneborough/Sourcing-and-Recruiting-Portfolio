@@ -50,7 +50,7 @@ https://app.notion.com/p/robinborough/Robin-Borough-Candidate-Brief-for-GitHub-3
 - Placed more than 1,000 technical and GTM professionals
 - Built AI-enabled recruiting workflows reducing research time by 60–75%
 - Increased referral generation by 300%
-- Built sourcing strategies supporting Verizon's $6.7B BlueJeans and TracFone acquisitions
+- Managed 50+ complex tech roll-outs across the USA across 80 cities for over 100,000 end users
 - Led recruiting transformation at Chapman University, reducing time-to-fill by 61%
 - Built a national SkillBridge sourcing initiative reaching more than 225,000 transitioning Service Members
 
