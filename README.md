@@ -1,35 +1,79 @@
-# Sourcing-and-Recruiting-Portfolio
-GTM &amp; Technical Recruiting Portfolio | White Papers, Playbooks, and Talent Sourcing Resources (2026)
-# Robin Borough – Recruiting & Talent Sourcing Portfolio
+# Robin Borough | Talent Strategist & AI-Powered Recruiting
 
-**Senior GTM Recruiter | Talent Intelligence & AI Recruiting Specialist | Founding Talent Partner**
+**Talent Strategist | GTM & Technical Recruiting | AI-Enabled Talent Intelligence | Executive Search**
 
-Passionate about building high-performing revenue, technical, and mission-driven teams. This repository showcases my white papers, recruiting playbooks, graphics, and thought leadership on modern talent acquisition (GTM, DefenseTech, Federal, and AI-augmented sourcing).
+Welcome! I'm Robin Borough, a Talent Strategist with 14+ years of experience helping high-growth technology companies build Engineering, Product, GTM, Security, AI, and executive teams.
 
-### Featured Resources
-- **[GTM & DefenseTech Talent Sourcing White Paper 2026](whitepapers/GTM_Whitepaper.pdf)** – Comprehensive strategies, tools, channels, KPIs, and playbooks.
-- **[DefenseTech Recruiting Playbook](whitepapers/DefenseTech_Playbook.pdf)** – Specialized guidance for cleared and technical talent.
-- **Additional Documents**:
-  - [Resume – GTM Focus](documents/Robin_Borough_GTM_Resume.pdf)
-  - [Cover Letters & Tailored Materials](documents/)
-
-### Key Highlights
-- 9+ years full-cycle technical & GTM recruiting
-- Built AI-enabled workflows reducing research time by 60-75% and boosting pipeline velocity by 25%
-- Experience scaling teams at Verizon, Chapman University, Omnikron Systems, and startups
-- Expertise in passive sourcing, multi-channel outreach, GitHub/LinkedIn, Apollo/Waalaxy, and manager-led campaigns
-- DefenseTech & cleared talent pipelines (SkillBridge, COOL programs, federal contracting)
-
-### Connect With Me
-- **Email**: robin.borough@gmail.com
-- **Phone/SMS**: 818-618-7848
-- **LinkedIn**: [linkedin.com/in/robinborough](https://www.linkedin.com/in/robinborough/)
-- **Location**: Thousand Oaks, CA (open to SF travel)
-
-### Portfolio Purpose
-This repo serves as a living showcase of my recruiting philosophy, strategic thinking, and practical resources for hiring leaders and fellow talent professionals. All materials are for professional use and demonstration.
+This repository serves as my professional portfolio, showcasing recruiting strategy, market intelligence, sourcing methodologies, and thought leadership.
 
 ---
+
+# Featured Resources
+
+## 📘 Modern GTM & DefenseTech Talent Sourcing
+A comprehensive white paper covering today's sourcing landscape, AI-powered recruiting workflows, market intelligence, community building, automation, and recruiting playbooks.
+
+🔗 **Read the White Paper**
+https://gamma.app/docs/Strategies-Tools-and-Playbooks-for-2026-gu4z46bne0psr0l?mode=present#card-hjoksn38s4j9rp3
+
+---
+
+## 📋 Robin Borough Candidate Brief 
+A personalized hiring portfolio created for GitHub, including my recruiting philosophy, capabilities, sourcing strategy, and examples of how I approach Talent Strategy.
+
+🔗 **View Candidate Brief**
+https://app.notion.com/p/robinborough/Robin-Borough-Candidate-Brief-for-GitHub-3a2da2a47ed6801aa355dc58584b6f4a
+
+---
+
+# Areas of Expertise
+
+- Technical Recruiting
+- GTM Recruiting
+- Talent Strategy
+- AI-Powered Sourcing
+- Talent Intelligence
+- Competitive Research & Market Mapping
+- Executive Search
+- Candidate Attraction
+- Passive Talent Engagement
+- Community Building
+- Recruiting Automation
+- Recruiting Analytics
+- Workforce Planning
+
+---
+
+# Selected Career Highlights
+
+- 14+ years recruiting Engineering, AI, Product, GTM, Cybersecurity, and executive talent
+- Placed more than 1,000 technical and GTM professionals
+- Built AI-enabled recruiting workflows reducing research time by 60–75%
+- Increased referral generation by 300%
+- Built sourcing strategies supporting Verizon's $6.7B BlueJeans and TracFone acquisitions
+- Led recruiting transformation at Chapman University, reducing time-to-fill by 61%
+- Built a national SkillBridge sourcing initiative reaching more than 225,000 transitioning Service Members
+
+---
+
+# Connect With Me
+
+📧 robin.borough@gmail.com
+
+📱 818-618-7848
+
+🔗 LinkedIn
+https://www.linkedin.com/in/robinborough/
+
+📍 Thousand Oaks, California
+
+---
+
+*"Great recruiting is about helping companies build teams that change industries."*
+
+---
+
+**Last Updated:** July 2026
 
 **Last Updated**: July 2026  
 Made with ❤️ for talent acquisition excellence.
